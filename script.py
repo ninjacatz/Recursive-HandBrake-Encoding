@@ -41,8 +41,3 @@ def performHandbrakeEncoding(directory, video_path, video):
     os.remove('renamed-' + video)
 
 recursiveSearch(start_directory)
-
-
-
-
-
