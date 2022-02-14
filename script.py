@@ -7,7 +7,7 @@ start_directory = r''
 # Directory of HandBrakeCLI executable:
 handbrakeCLI_executable_path = r''
 # File extensions to encode:
-video_extensions_to_encode = ('.mov', '.avi', '.mp4', '.m4v')
+video_extensions_to_encode = ('.mov', '.avi', '.mp4', '.m4v', '.MOV', '.AVI', '.MP4', '.M4V')
 # Handbrake Command:
 # Add any additional customization to the end of the list
 # See https://handbrake.fr/docs/en/latest/cli/cli-options.html for more information
